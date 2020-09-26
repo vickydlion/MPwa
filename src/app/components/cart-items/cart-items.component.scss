@@ -1,0 +1,33 @@
+.cart-items {
+  padding: 16px;
+  vertical-align: center;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #aaaaaa;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.item-image {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+
+.item-name {
+  margin-left: 8px;
+  font-size: 1.4em;
+}
+
+.item-count {
+  margin-left: auto;
+  font-size: 1.4em;
+  text-align: right;
+}
+
+.item-price {
+  margin-left: auto;
+  font-size: 1.4em;
+  text-align: right;
+}
