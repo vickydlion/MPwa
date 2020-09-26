@@ -1,4 +1,4 @@
-import { Item } from './item';
+import { Item } from '../interfaces/item';
 
 export class ShoppingCart {
 
